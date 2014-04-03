@@ -1,3 +1,4 @@
 module Kaminari
-  VERSION = '0.14.3.r'
+  VERSION = '0.14.4.r'
 end
+
